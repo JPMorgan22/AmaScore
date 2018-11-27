@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>563536626429-osrifmtgmaslr59e5s3cp1j2vufhc2qm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.563536626429-osrifmtgmaslr59e5s3cp1j2vufhc2qm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYAE_ON5RXKXDuSRcjjDqJm_EhrP5-j7I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>563536626429</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>S-S.Score-and-Scout</string>
+	<key>PROJECT_ID</key>
+	<string>score-and-scout</string>
+	<key>STORAGE_BUCKET</key>
+	<string>score-and-scout.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:563536626429:ios:ab5407cb18f17bee</string>
+	<key>DATABASE_URL</key>
+	<string>https://score-and-scout.firebaseio.com</string>
+</dict>
+</plist>
